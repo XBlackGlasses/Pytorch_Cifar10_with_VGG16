@@ -15,6 +15,10 @@
   ```
   pip install PyQt5==5.15.1
   ```
+* pytorch 1.10.0 、 cuda 11.3
+  ```
+  conda install pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch
+  ```
 
 
 ### Running Code
