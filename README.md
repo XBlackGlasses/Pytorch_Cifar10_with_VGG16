@@ -3,7 +3,7 @@
 ### Environment:
 
 * python 3.7
-* opencv-contrib-python
+* opencv-contrib-python 3.4.2.17
 * Matplotlib 3.1.1
 * UI_framework : pyqt5(5.15.1)
 
