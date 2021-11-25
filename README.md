@@ -3,6 +3,9 @@
 ### Environment:
 
 * python 3.7
+  ```
+  conda create --name pytorch_1.10 python=3.7
+  ```
 * opencv-contrib-python 3.4.2.17
   ```
   pip install opencv-contrib-python==3.4.2.17 
